@@ -1,0 +1,26 @@
+
+* {
+    background-color: palegoldenrod;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.poetry-container{
+    text-align: center;
+}
+
+.poem {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.5
+}
+
+.indent {
+    text-indent: 1em;
+}
+
+.indent2 {
+    text-indent: 2em;
+}
